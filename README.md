@@ -1,4 +1,4 @@
 Blackjack
 ==============
 
-A blackjack game for CPSC 120
+Blackjack game for CPSC 120
