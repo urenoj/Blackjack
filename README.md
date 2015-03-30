@@ -1,4 +1,4 @@
-Blackjack-Game
+Blackjack
 ==============
 
-A project for my computer science class
+A blackjack game for CPSC 120
